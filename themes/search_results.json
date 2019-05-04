@@ -1,0 +1,62 @@
+{
+  // We now support comments!
+  // styles can be:
+  // - italic
+  // - bold
+  // - bolditalic
+  "background" : "#ffECECEC",
+  "foreground" : "#303030",
+  "linehighlight": "#1f666666",
+  "line_padding_bottom": 0,
+  "line_padding_top": 0,
+  "selection" : {
+    "background": "#666666",
+    "foreground": "#fffdf6e3"
+  },
+  "font": {"face": "Helvetica", "size": 11, "style": "normal"},
+  "caret": "#e42e70",
+
+  "text.italic":     {"symbol": {"color": "#AAAAAA", "style": "italic"},
+                      "text" :  {"style": "italic"}},
+  "text.bold":       {"symbol": {"color": "#AAAAAA", "style": "italic"},
+                      "text" :  {"style": "bold"}},
+  "text.bolditalic": {"symbol": {"color": "#AAAAAA", "style": "italic"},
+                      "text" :  {"style": "bolditalic"}},
+
+  "h.symbol" : {"color": "#455b63", "style": "bold"},
+  "h1.text" :  {"color": "#455b63", "style": "bold"},
+  "h2.text" :  {"color": "#455b63", "style": "bold"},
+  "h3.text" :  {"color": "#455b63", "style": "bold"},
+  "h4.text" :  {"color": "#455b63", "style": "bold"},
+  "h5.text" :  {"color": "#455b63", "style": "bold"},
+  "h6.text" :  {"color": "#455b63", "style": "bold"},
+
+  "quote": {"symbol": {"color": "#657b83"},
+            "text" :  {"color": "#657b83", "style": "italic"}},
+
+  "code.fenced":    {"color": "#ffffff", "background": "#404040"},
+  "code":           {"color": "#b58900"},
+
+  "list.symbol"   : {"color": "#93a1a1"},
+  "list.unordered": {},
+  "list.ordered":   {},
+
+  "tag":     {"color": "#268bd2", "style": "italic"},
+  "citekey": {"color": "#6c71c4"},
+
+  "link": {
+    "caption": {"color": "#2aa198"},
+    "url"  : {"color": "#2aa198"},
+    "attr": {"color": "#AAAAAA", "style": "italic"}
+  },
+
+  "zettel.link" : {"color": "#268bd2"},
+  "comment" : {"color": "#93a1a1"},
+  "footnote": {"color": "#cb4b16"},
+
+  // search specs --- not used in default markdown
+  // only used for saved searches area
+  "search.name": {"style": "bolditalic"},
+  "search.spec": {"color": "#e42e70",// "background": "#99ccff"
+  },
+}
