@@ -5,8 +5,6 @@ tags: #career, #system
 ---
 ## Learnings from Podcast
 
-Book - The 
-
 * Improve as Listener - Understand first
 * Reflect on the Day
 * Capture and codify your learning

@@ -5,7 +5,7 @@ tags: #ideas, #list
 ---
 ## List of Old Ideas
 
-**This is a list of old themes and ideas that I had on paper index cards.  Putting them hear in case they spark future ideas, even if they might be a little vague at this point**
+**This is a list of old themes and ideas that I had on paper index cards.  Putting them here in case they spark future ideas, even if they might be a little vague at this point**
 
 * Moral dilemnas
 * Quantum mechanics
