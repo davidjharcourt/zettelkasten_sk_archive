@@ -1,5 +1,5 @@
 ---
-title: 20190702195725 10 Minute Toughness Goal Program
+title: 20190702195725 10 Minute Toughness - Goal Program
 date: 2019-07-02 19:57
 tags: #book #ref #notes #performance #goals
 ---

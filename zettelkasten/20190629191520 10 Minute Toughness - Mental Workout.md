@@ -1,5 +1,5 @@
 ---
-title: 20190629191520 10 Minute Toughness Mental Workout
+title: 20190629191520 10 Minute Toughness - Mental Workout
 date: 2019-06-29 19:15
 tags: #book #ref #notes #performance
 ---
